@@ -1,0 +1,7 @@
+data/
+results/
+playground/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
