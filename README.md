@@ -6,3 +6,4 @@ This repository contains the code to reproduce the results from the blog post [A
 1. Install the requirements with `pip install -r requirements.txt`.
 1. Run `feature-engineering.ipynb` to generate `data/features.parquet`.
 1. Run `cross-validation.ipynb` to run the cross validation.
+1. Run `make-plots.ipynb` to make the plots.
